@@ -1,0 +1,15 @@
+<suite name="Suite1" verbose="1" >
+  
+ 
+
+   
+  <test name="HomePage">
+	 <classes>
+	 <class name="itecyWebsite.ItecyHomepage"/>
+	   <class name="itecyWebsite.JobSearchByCompany"/>
+	 </classes>
+   </test>
+   
+ 
+   
+</suite>
