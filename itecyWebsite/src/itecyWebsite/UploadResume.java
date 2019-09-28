@@ -25,7 +25,7 @@ WebDriver driver;
 	@Test
 	public void SearchByCompany() throws InterruptedException, AWTException {
 	
-		// Launching Browser
+		// Launching Browser test
 		
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\workspace\\Drivers\\newchrome\\chromedrivercrome\\chromedriver.exe");
