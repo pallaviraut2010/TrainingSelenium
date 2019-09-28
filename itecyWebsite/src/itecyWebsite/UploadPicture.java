@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 
 
-public class ReusableMethod {
+public class UploadPicture {
 	WebDriver driver;
 	
 	public WebDriver getDriver() {
@@ -16,6 +16,11 @@ public class ReusableMethod {
 		this.driver=driver;
 	}
 
+		public void shyamMethod() {
+			System.out.println("Test");
+			
+		}
+		
 	public void loginUser() throws InterruptedException{
 		
 		// Website open
